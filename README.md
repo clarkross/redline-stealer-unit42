@@ -1,4 +1,4 @@
-# Line Unit 42 Wireshark Lab / Quiz for RedLine Stealer
+# RedLine Stealer PCAP Analysis
 
 * [Summary & Info Here](https://unit42.paloaltonetworks.com/wireshark-quiz-redline-stealer/)
 * [pcap access](https://github.com/pan-unit42/Wireshark-quizzes/)
